@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Touitou
+- prénom : Ethan
+- URL Netlify : https://glittery-marzipan-97605e.netlify.app
 
 # Travail
 
